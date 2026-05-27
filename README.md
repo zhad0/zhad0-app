@@ -1,6 +1,6 @@
 # ZHAD0 Protocol — Web App
 
-[![Status](https://img.shields.io/badge/status-design__preview-ff3d8a.svg)](https://zhad0.io)
+[![Status](https://img.shields.io/badge/status-live-00d26a.svg)](https://zhad0.io)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Built on Base](https://img.shields.io/badge/chain-Base%20L2-0052ff.svg)](https://base.org)
 
